@@ -22,7 +22,7 @@ Step 7 : Run the follwing commands in the cmd
          python manage.py runserver
          Boom!! your server is running.
          Type 127.0.0.1:/8000 in the browser and you will e directed to the index page
-Step 8 : Run the follwing command in the cmd:
+Step 8 : Run the following command in the cmd:
          python manage.py createsuperuser
          and create an alias of super user
          Now login through the super user id
