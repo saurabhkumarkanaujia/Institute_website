@@ -26,7 +26,7 @@ Step 8 : Run the following command in the cmd:
          python manage.py createsuperuser
          and create an alias of super user
          Now login through the super user id
-Step 9 : Now You can make changes as an admin
+Step 9 : Enjoy
       
       
  Developed by saurabhkumarkanaujia
